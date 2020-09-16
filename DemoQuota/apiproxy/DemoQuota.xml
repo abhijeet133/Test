@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="DemoQuota">
+    <Basepaths>/v1</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1597071008757</CreatedAt>
+    <CreatedBy>abhijeet.e.anand@accenture.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>DemoQuota</DisplayName>
+    <LastModifiedAt>1599642838242</LastModifiedAt>
+    <LastModifiedBy>abhijeet.e.anand@accenture.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:ab8e40c93ffb718afaa57f340fa48915684c37685695829bcb994da0f2433f27147fff282ac8a5561af4c59870409f778685c8109e29078f82c7e35ed04bd2a6</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
